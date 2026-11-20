@@ -2,8 +2,8 @@
 
 > **This file is for an AI assistant, not a human.**
 >
-> If you're a person: hand this file to ChatGPT, Claude, Cursor, Gemini, or any
-> coding agent and say:
+> If you're a person: hand this file to Cursor, Claude Code, OpenCode, Gemini
+> CLI, or any coding agent and say:
 >
 > *"Read this file and set up Closed Test Pro Auto Take for me. Ask before
 > installing anything."*

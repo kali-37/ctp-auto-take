@@ -10,7 +10,7 @@ It scans your list, opens each untested app, keeps it in the foreground for 35 s
 
 ## Let an AI do the setup for you
 
-Don't want to touch a terminal? Open **LLME.md** in this repo and hand it to ChatGPT, Claude, Cursor, Gemini, or any coding agent:
+Don't want to touch a terminal? Open **LLME.md** in this repo and hand it to Cursor, Claude Code, OpenCode, Gemini CLI, or any coding agent:
 
 > "Read this file and set up Closed Test Pro Auto Take for me. Ask before installing anything."
 

@@ -6,8 +6,8 @@ New here? Read the **[full setup guide](SETUP.md)**. Want an AI to do the setup?
 
 ## Let an AI do the setup
 
-Hand [`LLME.md`](LLME.md) to ChatGPT, Claude, Cursor, Gemini, or any coding
-agent and say:
+Hand [`LLME.md`](LLME.md) to Cursor, Claude Code, OpenCode, Gemini CLI, or any
+coding agent and say:
 
 > "Read this file and set up Closed Test Pro Auto Take for me. Ask before
 > installing anything."
