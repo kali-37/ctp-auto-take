@@ -44,7 +44,7 @@ It scans from the top of the list, skips rows that are already tested or paused,
 | **Python 3.9+** | Runs the script | [python.org/downloads](https://www.python.org/downloads/) |
 | **Android Platform Tools** | Provides `adb` | [developer.android.com/tools/releases/platform-tools](https://developer.android.com/tools/releases/platform-tools) |
 | **Samsung USB Driver** | Windows only, so Windows can see a Samsung phone | [developer.samsung.com/mobile/android-usb-driver.html](https://developer.samsung.com/mobile/android-usb-driver.html) |
-| **The script** | `closed_test_pro.py` from this repo | Download the file |
+| **The script** | `closed_test_pro.py` from this repo | [Download](https://github.com/kali-37/ctp-auto-take/raw/main/closed_test_pro.py) |
 
 You also need:
 
