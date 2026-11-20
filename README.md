@@ -31,7 +31,7 @@ and stops when no untested **Open** row remains.
 
 - Samsung phone connected over USB with USB debugging authorized (`adb devices` shows `device`)
 - Closed Test Pro installed and logged in
-- Python 3.7+ and Android Platform Tools (`adb`)
+- Python 3.9+ and Android Platform Tools (`adb`)
 
 ## Setup
 
